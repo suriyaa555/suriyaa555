@@ -1,4 +1,4 @@
-# Hi, I'm Suriyaa M
+# This is SURIYAA
 
 ### Agentic AI Developer | Generative AI | LLM Applications
 
