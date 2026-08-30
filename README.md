@@ -12,7 +12,7 @@ My focus is on turning LLMs into **reliable, stateful, and production-oriented s
 
 ### Generative & Agentic AI
 
-`LLMs` `AI Agents` `Multi-Agent Systems` `RAG` `Embeddings` `Vector Search` `Prompt Engineering` `Agent Memory` `HITL` `Guardrails`
+`LLMs` `AI Agents` `Multi-Agent Systems` `RAG` `Embeddings` `Vector Search` `Agent Memory` `HITL` `Guardrails`
 
 ### AI Frameworks & Platforms
 
