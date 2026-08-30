@@ -138,4 +138,4 @@ Coimbatore Institute of Technology
 
 ---
 
-*Building reliable AI systems beyond simple prompt-response applications.*
+*Building AI systems that turn intent into reasoning, reasoning into action, and action into outcomes.*
